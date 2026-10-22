@@ -1,53 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:99D6EA,100:C3BEF0&height=230&section=header&text=Kanghui%27s%20GitHub&fontSize=48&fontColor=495057&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:99D6EA,100:C3BEF0&height=220&section=header&text=Kanghui%27s%20GitHub&fontSize=46&fontColor=495057&fontAlignY=40)
 
 <div align="center">
-  <strong>사용자와 데이터의 흐름을 이해하고, 기술로 문제를 해결하는 개발자입니다.</strong><br/>
+  <strong>사용자와 데이터의 흐름을 이해하고, 기술로 문제를 해결합니다.</strong><br/>
   Backend · Data · AI Integration · Service Operation
 </div>
 
 <br/>
-
-## 🌱 Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YO1231/YO1231/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YO1231/YO1231/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YO1231/YO1231/output/github-snake.svg">
-  </picture>
-</p>
-
-## 🏆 Experience & Awards
-
-- **KB IT's Your Life 7기** · 금융 IT 실무교육
-- **KB IT's Your Life 해커톤 우수상** · [든든](https://github.com/0123-DNDN)
-- **한이음 드림업 공모전 정보통신기획평가원장상(은상)** · [DeepTruth](https://github.com/25-HF003)
-
-## 🚀 Projects
-
-### Youngly
-**금융 자산관리 서비스 · Team Lead / Full Stack**  
-[GitHub Organization](https://github.com/KB-2026-Youngly)
-
-- 금융감독원 Open API와 PDF 데이터를 수집·정제해 서비스 데이터로 연결
-- 개인연금 핵심 수치는 Backend에서 계산하고 생성형 AI는 검증된 데이터를 바탕으로 설명하도록 역할 분리
-- Jira · GitHub 기반 Issue → Branch → PR → Review → Merge 협업 프로세스 운영
-
-### 든든
-**시니어 AI 금융 동반자 서비스 · Backend-focused Full Stack**  
-[GitHub Organization](https://github.com/0123-DNDN)
-
-- Spring Boot · JPA · MySQL 기반 백엔드와 React Native 모바일 서비스 개발
-- Android Health Connect 데이터 동기화 및 활동 상태 정합성 관리
-- Gemini API 결과와 서비스 상태를 연결하고 실패 상황을 고려한 처리 흐름 구현
-
-### DeepTruth
-**딥페이크 탐지 · 적대적 노이즈 · 디지털 워터마크 통합 프로젝트**  
-[GitHub Organization](https://github.com/25-HF003)
-
-- 적대적 노이즈 기능 개발 및 Spring Boot 백엔드 공동 개발
-- Python/Flask AI 서버와 Spring Boot 연동, Docker · Linux · AWS 환경 서비스화
-- 로그와 타임스탬프를 기준으로 여러 시스템이 연결된 배포 환경의 문제 구간 추적
 
 ## 🛠 Tech Stack
 
@@ -102,11 +60,67 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
+<br/>
+
+## 🏆 Awards
+
+- **KB IT's Your Life 해커톤 우수상** · [든든](https://github.com/0123-DNDN)
+- **한이음 드림업 공모전 정보통신기획평가원장상(은상)** · [DeepTruth](https://github.com/25-HF003)
+
+<br/>
+
+## 📚 Education
+
+### KB IT's Your Life 7기
+- 금융 IT 기반의 **960시간 실무교육** 이수
+- Java · Spring · DB · Frontend · 금융서비스 프로젝트 수행
+- 최종 프로젝트에서 **6인 팀 팀장 / Full Stack 개발** 담당
+
+<br/>
+
+## 🚀 Projects
+
+### Youngly
+**금융 자산관리 서비스 · Team Lead / Full Stack**  
+[GitHub Organization](https://github.com/KB-2026-Youngly)
+
+- 금융감독원 Open API와 PDF 데이터를 수집·정제해 서비스 데이터로 연결
+- 개인연금 핵심 수치는 Backend에서 계산하고 생성형 AI는 검증된 데이터를 바탕으로 설명하도록 역할 분리
+- Jira · GitHub 기반 Issue → Branch → PR → Review → Merge 협업 프로세스 운영
+
+### 든든
+**시니어 AI 금융 동반자 서비스 · Backend-focused Full Stack**  
+[GitHub Organization](https://github.com/0123-DNDN)
+
+- Spring Boot · JPA · MySQL 기반 백엔드와 React Native 모바일 서비스 개발
+- Android Health Connect 데이터 동기화 및 활동 상태 정합성 관리
+- Gemini API 결과와 서비스 상태를 연결하고 실패 상황을 고려한 처리 흐름 구현
+
+### DeepTruth
+**딥페이크 탐지 · 적대적 노이즈 · 디지털 워터마크 통합 서비스**  
+[GitHub Organization](https://github.com/25-HF003)
+
+- 적대적 노이즈 기능 개발 및 Spring Boot 백엔드 공동 개발
+- Python/Flask AI 서버와 Spring Boot 연동, Docker · Linux · AWS 환경 서비스화
+- 로그와 타임스탬프를 기준으로 여러 시스템이 연결된 배포 환경의 문제 구간 추적
+
+<br/>
+
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YO1231&show_icons=true&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YO1231&layout=compact&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YO1231/YO1231/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YO1231/YO1231/output/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YO1231/YO1231/output/github-snake.svg">
+  </picture>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C3BEF0,100:99D6EA&height=120&section=footer)
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=YO1231&show_icons=true&theme=default&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YO1231&layout=compact&theme=default&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:C3BEF0,100:99D6EA&height=110&section=footer)

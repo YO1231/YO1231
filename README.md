@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99D6EA,100:C3BEF0&height=220&section=header&text=Kanghui%27s%20GitHub&fontSize=46&fontColor=495057&fontAlignY=40)
 
+<p align="center"><strong>Backend · Full Stack · AI Service Development</strong></p>
+
 ## 🛠 Tech Stack
 
 ### Programming Languages

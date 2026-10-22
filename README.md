@@ -80,22 +80,38 @@
 ## 🚀 Projects
 
 ### [Youngly](https://github.com/KB-2026-Youngly)
-**2026.07.09 ~ 2026.08.26 · 6인 팀 · 팀장 / Full Stack**
+`2026.07.09 ~ 2026.08.26` · `6인 팀` · **Team Lead / Full Stack**
 
-- **서비스**: 친구들과 일상 챌린지를 수행하고 인증·랭킹·정산을 개인연금 적립 경험으로 연결하는 MZ 맞춤 자산관리 서비스
-- **기여**: AI 개인연금 인사이트, 금융감독원 Open API 기반 시장정보 수집, 투자성향 설문, 내 인증 캘린더를 개발하고 Jira·GitHub 기반 협업 프로세스를 운영
+> 친구 기반 챌린지와 인증·랭킹·정산을 개인연금 적립 경험으로 연결한 MZ 맞춤 자산관리 서비스
+
+- **주요 기여** · AI 개인연금 인사이트, 금융감독원 Open API 시장정보 수집, 투자성향 설문, 내 인증 캘린더 Full Stack 개발 및 Jira·GitHub 기반 협업 프로세스 운영
+- **성과** · 1주 Sprint × 3회 운영, 본인 작성 **PR 16건 최종 반영** (Backend 10 / Frontend 6)
 
 ### [든든](https://github.com/0123-DNDN)
-**2026.08.16 ~ 2026.09.10 · 4인 팀 · 백엔드 중심 Full Stack**
+`2026.08.16 ~ 2026.09.10` · `4인 팀` · **Backend-focused Full Stack**
 
-- **서비스**: 일반 시니어의 금융 위험 예방과 건강·인지 활동, 가족 연결을 지원하는 AI 금융 동반자 모바일 서비스
-- **기여**: Spring Boot/JPA 기반 활동 상태 관리, Gemini 멀티턴 대화, Android Health Connect 걸음 수 연동, 가족 소식·보호자 리포트 기능을 개발
+> 일반 시니어의 금융 위험 예방과 건강·인지 활동, 가족 연결을 지원하는 AI 금융 동반자 모바일 서비스
+
+- **주요 기여** · Spring Boot/JPA 기반 활동 상태 관리, Gemini 멀티턴 대화, Android Health Connect 걸음 수 연동, 가족 소식·보호자 리포트 개발
+- **성과** · **2026 KB IT's Your Life 해커톤 우수상** (2026.09.10)
 
 ### [DeepTruth](https://github.com/25-HF003)
-**2025.04.01 ~ 2025.10.31 · 4인 팀 · 팀원 / 적대적 노이즈 AI 핵심 개발 / Spring Boot 백엔드 공동 개발**
+`2025.04.01 ~ 2025.10.31` · `4인 팀` · **Adversarial Noise AI / Backend**
 
-- **서비스**: 딥페이크 탐지, 적대적 노이즈, 디지털 워터마크 기능을 결합해 딥페이크 악용과 창작물의 무단 AI 학습 문제에 대응하는 통합 서비스
-- **기여**: WikiArt 기반 적대적 노이즈 기능을 개발하고 Flask API로 서비스화했으며, Spring Boot 백엔드 2인 공동 개발과 AI 서버 연동, AWS 배포·운영에 참여
+> 딥페이크 탐지·적대적 노이즈·디지털 워터마크를 결합한 AI 기반 통합 콘텐츠 보호 서비스
+
+- **주요 기여** · WikiArt 기반 적대적 노이즈 AI 모듈 개발, Flask API 서비스화, Spring Boot 백엔드 2인 공동 개발, AI 서버 연동 및 AWS 배포·운영 참여
+- **성과** · **2025 한이음 드림업 공모전 정보통신기획평가원장상(은상)** (2025.11.19)
+
+<br/>
+
+## 📫 Contact
+
+<p>
+  <a href="mailto:whee0211@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-whee0211%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 <br/>
 

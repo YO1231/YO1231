@@ -57,42 +57,40 @@
 
 ## 🏆 Awards
 
-- **KB IT's Your Life 해커톤 우수상** · [든든](https://github.com/0123-DNDN)
-- **한이음 드림업 공모전 정보통신기획평가원장상(은상)** · [DeepTruth](https://github.com/25-HF003)
+- **2026.09.10 · KB IT's Your Life 해커톤 우수상** — [든든](https://github.com/0123-DNDN)
+- **2025.11.19 · 2025 한이음 드림업 공모전 정보통신기획평가원장상(은상)** — [DeepTruth](https://github.com/25-HF003)
 
 <br/>
 
 ## 📚 Education
 
 ### KB IT's Your Life 7기
-- 금융 IT 기반의 **960시간 실무교육** 이수
-- Java · Spring · DB · Frontend · 금융서비스 프로젝트 수행
-- 최종 프로젝트에서 **6인 팀 팀장 / Full Stack 개발** 담당
+**2026.03.04 ~ 2026.08.26 · 960시간**
+
+- Java · 자료구조/알고리즘 · DB/SQL · Spring Legacy · MyBatis · REST API · Vue.js · Git/GitHub 기반 금융 IT 실무교육
+- 최종 프로젝트 **Youngly**에서 6인 팀 팀장 / Full Stack 개발
 
 <br/>
 
 ## 🚀 Projects
 
-### Youngly
-**MZ 개인연금 자산관리 서비스 · Team Lead / Full Stack**  
-[GitHub](https://github.com/KB-2026-Youngly)
+### [Youngly](https://github.com/KB-2026-Youngly)
+**2026.07.09 ~ 2026.08.26 · 6인 팀 · 팀장 / Full Stack**
 
-- 친구들과 일상 챌린지를 수행하고 인증·랭킹·정산을 개인연금 적립 경험으로 연결하는 금융 습관 형성 서비스
-- 팀장으로 협업 프로세스를 운영하고, AI 개인연금 인사이트·금융감독원 Open API·투자성향 설문·인증 캘린더를 Full Stack으로 개발
+- **서비스**: 친구들과 일상 챌린지를 수행하고 인증·랭킹·정산을 개인연금 적립 경험으로 연결하는 MZ 맞춤 자산관리 서비스
+- **기여**: AI 개인연금 인사이트, 금융감독원 Open API 기반 시장정보 수집, 투자성향 설문, 내 인증 캘린더를 개발하고 Jira·GitHub 기반 협업 프로세스를 운영
 
-### 든든
-**시니어 AI 금융 동반자 서비스 · Backend-focused Full Stack**  
-[GitHub](https://github.com/0123-DNDN)
+### [든든](https://github.com/0123-DNDN)
+**2026.08.16 ~ 2026.09.10 · 4인 팀 · 백엔드 중심 Full Stack**
 
-- 일반 시니어의 금융 위험 예방과 건강·인지 활동, 가족 연결을 지원하는 모바일 서비스
-- 건강·인지 활동 상태 관리, Gemini 멀티턴 대화, Health Connect 걸음 수 연동, 가족 소식·보호자 리포트 기능을 개발
+- **서비스**: 일반 시니어의 금융 위험 예방과 건강·인지 활동, 가족 연결을 지원하는 AI 금융 동반자 모바일 서비스
+- **기여**: Spring Boot/JPA 기반 활동 상태 관리, Gemini 멀티턴 대화, Android Health Connect 걸음 수 연동, 가족 소식·보호자 리포트 기능을 개발
 
-### DeepTruth
-**딥페이크 탐지 · 적대적 노이즈 · 디지털 워터마크 통합 서비스**  
-[GitHub](https://github.com/25-HF003)
+### [DeepTruth](https://github.com/25-HF003)
+**2025.04.01 ~ 2025.10.31 · 4인 팀 · 팀원 / 적대적 노이즈 AI 핵심 개발 / Spring Boot 백엔드 공동 개발**
 
-- 딥페이크 악용과 창작물의 AI 무단학습·저작권 침해 문제에 대응하기 위한 서비스
-- 적대적 노이즈 AI 핵심 기능을 개발하고, Spring Boot 백엔드를 2인 공동 개발하며 Flask AI 서버 연동과 AWS 배포·운영에 참여
+- **서비스**: 딥페이크 탐지, 적대적 노이즈, 디지털 워터마크 기능을 결합해 딥페이크 악용과 창작물의 무단 AI 학습 문제에 대응하는 통합 서비스
+- **기여**: WikiArt 기반 적대적 노이즈 기능을 개발하고 Flask API로 서비스화했으며, Spring Boot 백엔드 2인 공동 개발과 AI 서버 연동, AWS 배포·운영에 참여
 
 <br/>
 

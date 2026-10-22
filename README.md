@@ -74,28 +74,25 @@
 ## 🚀 Projects
 
 ### Youngly
-**금융 자산관리 서비스 · Team Lead / Full Stack**  
-[GitHub Organization](https://github.com/KB-2026-Youngly)
+**MZ 개인연금 자산관리 서비스 · Team Lead / Full Stack**  
+[GitHub](https://github.com/KB-2026-Youngly)
 
-- 금융감독원 Open API와 PDF 데이터를 수집·정제해 서비스 데이터로 연결
-- 개인연금 핵심 수치는 Backend에서 계산하고 생성형 AI는 검증된 데이터를 바탕으로 설명하도록 역할 분리
-- Jira · GitHub 기반 Issue → Branch → PR → Review → Merge 협업 프로세스 운영
+- 친구들과 일상 챌린지를 수행하고 인증·랭킹·정산을 개인연금 적립 경험으로 연결하는 금융 습관 형성 서비스
+- 팀장으로 협업 프로세스를 운영하고, AI 개인연금 인사이트·금융감독원 Open API·투자성향 설문·인증 캘린더를 Full Stack으로 개발
 
 ### 든든
 **시니어 AI 금융 동반자 서비스 · Backend-focused Full Stack**  
-[GitHub Organization](https://github.com/0123-DNDN)
+[GitHub](https://github.com/0123-DNDN)
 
-- Spring Boot · JPA · MySQL 기반 백엔드와 React Native 모바일 서비스 개발
-- Android Health Connect 데이터 동기화 및 활동 상태 정합성 관리
-- Gemini API 결과와 서비스 상태를 연결하고 실패 상황을 고려한 처리 흐름 구현
+- 일반 시니어의 금융 위험 예방과 건강·인지 활동, 가족 연결을 지원하는 모바일 서비스
+- 건강·인지 활동 상태 관리, Gemini 멀티턴 대화, Health Connect 걸음 수 연동, 가족 소식·보호자 리포트 기능을 개발
 
 ### DeepTruth
 **딥페이크 탐지 · 적대적 노이즈 · 디지털 워터마크 통합 서비스**  
-[GitHub Organization](https://github.com/25-HF003)
+[GitHub](https://github.com/25-HF003)
 
-- 적대적 노이즈 기능 개발 및 Spring Boot 백엔드 공동 개발
-- Python/Flask AI 서버와 Spring Boot 연동, Docker · Linux · AWS 환경 서비스화
-- 로그와 타임스탬프를 기준으로 여러 시스템이 연결된 배포 환경의 문제 구간 추적
+- 딥페이크 악용과 창작물의 AI 무단학습·저작권 침해 문제에 대응하기 위한 서비스
+- 적대적 노이즈 AI 핵심 기능을 개발하고, Spring Boot 백엔드를 2인 공동 개발하며 Flask AI 서버 연동과 AWS 배포·운영에 참여
 
 <br/>
 

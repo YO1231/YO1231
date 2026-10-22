@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99D6EA,100:C3BEF0&height=220&section=header&text=Kanghui%27s%20GitHub&fontSize=46&fontColor=495057&fontAlignY=40)
 
-<div align="center">
-  <strong>사용자와 데이터의 흐름을 이해하고, 기술로 문제를 해결합니다.</strong><br/>
-  Backend · Data · AI Integration · Service Operation
-</div>
-
-<br/>
-
 ## 🛠 Tech Stack
 
 ### Programming Languages
@@ -110,9 +103,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YO1231/YO1231/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YO1231/YO1231/output/github-snake.svg">
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YO1231/YO1231/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YO1231/YO1231/gh-pages/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YO1231/YO1231/gh-pages/github-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YO1231/YO1231/gh-pages/github-snake.svg">
   </picture>
 </p>
 
